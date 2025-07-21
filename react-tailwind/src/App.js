@@ -43,7 +43,7 @@ function App() {
     });
   }, []);
   return (
-    <Router>
+    <Router basename="/c-bedmarine">
       <Navbar />
       <Routes>
         <Route path="/" element={<HomePage />} />
