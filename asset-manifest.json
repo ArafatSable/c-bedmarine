@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/c-bedmarine/static/css/main.b92d0a6e.css",
+    "main.js": "/c-bedmarine/static/js/main.619c90a7.js",
+    "static/media/hero-image.png": "/c-bedmarine/static/media/hero-image.1fee3a1b6e49fee7d38a.png",
+    "static/media/our-aim.png": "/c-bedmarine/static/media/our-aim.d9f24003393d4182a5bf.png",
+    "static/media/who-we-are.png": "/c-bedmarine/static/media/who-we-are.32f4e9ac56b8e236c4c3.png",
+    "static/media/service2.jpg": "/c-bedmarine/static/media/service2.cb12438d7846c3813ef2.jpg",
+    "static/media/service1.jpg": "/c-bedmarine/static/media/service1.6a226a66db3f35c820e7.jpg",
+    "static/media/service5.jpg": "/c-bedmarine/static/media/service5.7f5b462bbed48b96dfaa.jpg",
+    "static/media/service3.jpg": "/c-bedmarine/static/media/service3.d95d9342b8e3a52731d8.jpg",
+    "static/media/service4.jpg": "/c-bedmarine/static/media/service4.6ecbe56866887fbb94e2.jpg",
+    "static/media/service6.jpg": "/c-bedmarine/static/media/service6.f85ffebb982cf12597f5.jpg",
+    "static/media/logo.png": "/c-bedmarine/static/media/logo.0929b02e7f219a473911.png",
+    "static/media/slick.svg": "/c-bedmarine/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/c-bedmarine/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/c-bedmarine/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/c-bedmarine/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/c-bedmarine/index.html",
+    "main.b92d0a6e.css.map": "/c-bedmarine/static/css/main.b92d0a6e.css.map",
+    "main.619c90a7.js.map": "/c-bedmarine/static/js/main.619c90a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b92d0a6e.css",
+    "static/js/main.619c90a7.js"
+  ]
+}
