@@ -176,3 +176,6 @@ This project is open‑sourced under the **MIT License** (or update this section
 
 **Author:** ArafatSable · **Repo:** `c-bedmarine`
 **Live:** [https://cbedmarinesample.netlify.app/](https://cbedmarinesample.netlify.app/)
+
+<img width="1440" height="4455" alt="Desktop - 3" src="https://github.com/user-attachments/assets/47976f0d-3d9a-4d3c-943b-406fa9438350" />
+
